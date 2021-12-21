@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadEhtesh
 - 👀 I’m interested in developing smart systems.
-- 🌱 I’m currently learning DevOps.
+- 🌱 DevOps Expert Azure/AWS...
 - 📫 How to reach me +923204033575 whatsapp or muhammadehteshambhatti@gmail.com
 
 <!---
